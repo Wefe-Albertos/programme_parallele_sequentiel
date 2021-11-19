@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-main()
+int main ()
 {
     int A[50][50];
     int B[50][50];
